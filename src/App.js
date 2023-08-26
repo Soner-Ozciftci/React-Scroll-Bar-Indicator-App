@@ -17,7 +17,7 @@ function App() {
   };
 
   useEffect(() => {
-    window.addEventListener("scroll", onscroll);
+    window.addEventListener("scroll", onScroll);
   });
 
   return (
