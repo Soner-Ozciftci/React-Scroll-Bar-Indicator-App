@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
-import "./ScrollIndicator.css";
 import "./App.css";
+import "./ScrollIndicator.css";
 
 function App() {
   const [scrollTop, setScrollTop] = useState(0);
