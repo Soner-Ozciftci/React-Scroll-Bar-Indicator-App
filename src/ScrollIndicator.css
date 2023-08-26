@@ -14,9 +14,9 @@
 .progressMainStyle {
   height: 15px;
   background-color: #00adb5;
-  width: 15%;
 }
 h1 {
+  text-align: center;
   color: #393e46;
   letter-spacing: 2px;
   margin: 20px;
